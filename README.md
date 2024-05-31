@@ -1,6 +1,8 @@
 # ClimateChangeDataAnalysis
 # **CO2 Emission Data Analysis**
 
+![](screenGrab.jpeg)
+
 ## **Overview**
 
 This repository contains the analysis and visualization of CO2 emission data. The analysis aims to uncover insights and answer critical environmental and policy-related questions to inform decision-making processes.
